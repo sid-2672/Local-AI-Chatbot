@@ -1,0 +1,6 @@
+streamlit
+langchain
+langchain-community
+PyPDF2
+ollama
+wikipedia-api
