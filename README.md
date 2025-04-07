@@ -46,13 +46,13 @@ File Structure:
 
 Usage
 
-    Run the chatbot and interact with the AI.
+    1. Run the chatbot and interact with the AI.
 
-    Upload PDFs for content analysis.
+    2. Upload PDFs for content analysis.
 
-    View and save conversation history.
+    3. View and save conversation history.
 
-    Change AI models from the sidebar.
+    4. Change AI models from the sidebar.
 
 Contributing
 
