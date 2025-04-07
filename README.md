@@ -20,21 +20,21 @@ This is a local AI chatbot built using **Streamlit** and **LangChain**. It allow
 
 ### 1. Clone the Repository:
 
-  git clone https://github.com/sid-2672/Local-AI-Chatbot.git
-  cd Local-AI-Chatbot
+    git clone https://github.com/sid-2672/Local-AI-Chatbot.git
+    cd Local-AI-Chatbot
 
 ### 2. Create a Virtual Environment:
 
-  python -m venv venv
-  source venv/bin/activate   # On Windows, use `venv\Scripts\activate`
+    python -m venv venv
+    source venv/bin/activate   # On Windows, use `venv\Scripts\activate`
   
 ### 3. Install Dependencies:
 
-  pip install -r requirements.txt
+    pip install -r requirements.txt
 
 4. Run the Chatbot:
 
-  streamlit run Chatbot.py
+       streamlit run Chatbot.py
 
 File Structure:
 
