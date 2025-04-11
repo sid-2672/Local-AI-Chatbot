@@ -32,19 +32,11 @@ This is a local AI chatbot built using **Streamlit** and **LangChain**. It allow
 
     pip install -r requirements.txt
 
-4. Run the Chatbot:
+### 4. Run the Chatbot:
 
        streamlit run Chatbot.py
 
-File Structure:
-
-/Local-AI-Chatbot
-│── Chatbot.py              # Main chatbot application
-│── requirements.txt        # Dependencies
-│── README.md               # Documentation
-│── /data                   # (Optional) Folder for saved chat history
-
-Usage
+#### Usage:
 
     1. Run the chatbot and interact with the AI.
 
@@ -54,7 +46,7 @@ Usage
 
     4. Change AI models from the sidebar.
 
-Contributing
+#### Contributing:
 
 If you want to improve this chatbot, feel free to fork the repository and submit a pull request.
 
